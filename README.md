@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @QPThree
-- 👀 I’m interested in ...Software Engineering, design, architect, testing, and development.
-- 🌱 I’m currently learning ... <em>JavaScript</em> and node.js
+- 👋 Hi, I’m @QPThree :cow:
+- ☕I’m interested in ...Software Engineering, design, architect, testing, and development.
+- 📝 I’m currently learning ... <em><b>JavaScript</b></em> and <em><b>node.js</b></em>
 - 
 - 📫 How to reach me ... youngqp3@gmail.com ; qpthree.com
 
